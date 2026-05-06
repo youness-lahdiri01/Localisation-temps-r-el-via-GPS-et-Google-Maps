@@ -86,7 +86,7 @@ Sans clé API → la carte ne fonctionne pas
 Vérifier les permissions GPS
 Vérifier la connexion réseau
 L’API PHP doit être accessible depuis le téléphone
-🧪 Problèmes fréquents
+## Problèmes fréquents
 ❌ Carte grise → clé API manquante
 ❌ Aucune position → problème GPS ou permissions
 ❌ Erreur réseau → IP incorrecte ou serveur non lancé
