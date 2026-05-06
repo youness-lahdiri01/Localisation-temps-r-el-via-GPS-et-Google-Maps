@@ -91,10 +91,10 @@ L’API PHP doit être accessible depuis le téléphone
 ❌ Aucune position → problème GPS ou permissions
 ❌ Erreur réseau → IP incorrecte ou serveur non lancé
 ❌ Données non enregistrées → erreur MySQL / PHP
-👤 Auteur
+## Auteur
 
 Youness LAHDIRI
 
-📄 Licence
+## Licence
 
 Projet éducatif – utilisation libre pour apprentissage
